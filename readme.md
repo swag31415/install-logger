@@ -2,9 +2,9 @@
 Automates logging program installs in a markdown file
 
 ## Usage
-Run with nimble
+Run with python
 ```bash
-nimble run install_logger
+python install_logger.py
 ```
 
 ## License
